@@ -28,7 +28,7 @@ Collaboration between Joe Brew and Khatia Munguambe
 
 # Problems
 - Need to create SES status
-  - The idea is to combine a pre-defined list of SES variables into one or more SES indices using PCA and MCA
+  - The idea is to combine a pre-defined list of SES variables (should be in protocol / analytical plan) into one or more SES indices using PCA and MCA
 - See where houses stand
 - Examine extent to which certain outcomes (below) are predicted by SES
   - Outcomes (several per outcome "group"):
@@ -40,14 +40,14 @@ Collaboration between Joe Brew and Khatia Munguambe
       - How long after delivery must a woman attend the post-partum visit? (87)
       - Type of food eaten during pregnancy (95, 96, 97)
     - Child health care (group 2)
-      - A
+      - A Get from word document
       - B
       - C
     - Feeding practices (group 3)
-      - A
+      - A Get from word document
       - B
     - Early child development (group 4)
-      - A
+      - A Get from word document
       - B
 
 # Process
