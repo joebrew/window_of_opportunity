@@ -1,5 +1,6 @@
-# window_of_opportunity
-Window of Opportunity (PATH project in Southern Mozambique)
+# WINDOW OF OPPORTUNITY
+Window of Opportunity (PATH/CISM project in Southern Mozambique)
+Collaboration between Joe Brew and Khatia Munguambe
 
 ## Details
 - CISM was doing a KAP survey in the Boane community to find out what mothers know.
@@ -27,7 +28,7 @@ Window of Opportunity (PATH project in Southern Mozambique)
 
 # Problems
 - Need to create SES status
-  - The idea is to combine a pre-defined list of SES variables into one or more SES indices, using PCA
+  - The idea is to combine a pre-defined list of SES variables into one or more SES indices using PCA and MCA
 - See where houses stand
 - Examine extent to which certain outcomes (below) are predicted by SES
   - Outcomes (several per outcome "group"):
